@@ -1,4 +1,4 @@
-# assessment_tool_frugal
+# Assessment Tool
 
 A new Flutter project.
 
